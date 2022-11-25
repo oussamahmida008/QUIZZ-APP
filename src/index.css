@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+ 
+}
+
+body {
+  margin: 0;
+ border: solid 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 150vh;
+  background: beige; 
+
+  text-align: center;
+  padding: 2em;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
